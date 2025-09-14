@@ -4,6 +4,7 @@ A Champions League API é uma aplicação focada no gerenciamento de times e jog
 Os dados são armazenados em um arquivo JSON local, permitindo fácil manipulação sem necessidade de um banco de dados robusto.
 
 <h2>Contribuições</h2>
+
 - Implementação das funcionalidades de busca por ID (SearchById), inserção (Insert) e remoção (Delete) de times.
 - Conversão e padronização dos dados dos jogadores para o formato JSON, possibilitando maior compatibilidade e facilidade de manipulação.
 
